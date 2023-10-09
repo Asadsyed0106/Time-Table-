@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: rgb(40, 47, 47);
+    font-family: sans-serif;
+}
+
+   
+ header  {
+    background-color: rgb(40, 47, 47);
+    color: black;
+    margin-left: 20px;
+   
+    padding: 1px;
+   
+     
+    text-decoration: none;
+    
+    
+  }
+
+table  {
+       background-color: rgb(40, 47, 47);
+  
+    color: white;
+    width: 80%;
+    margin: 3% auto;
+    
+    
+    border-collapse: collapse;
+    
+
+}
+caption{
+    
+    font-size: large;
+    color:rgb(240, 235, 235);
+    margin-bottom: 1%;
+     
+    
+   
+}
+ thead,th,tr{
+    margin: auto;
+    border: 2px solid white;
+    color: white;
+    padding: 1px;
+    
+}
+.custom-button {
+    background-color: white; 
+    color: black;
+    padding: 10px 20px; 
+    border:  1px solid black;
+    border-radius: 6px;
+    cursor: pointer;
+    
+    margin-top: 5px;
+    margin-left: 70%;
+}
+ footer{
+    background-color: lightblue;
+    color: black;
+    padding: 2px;
+    text-align: center;
+ }
+
+
+ 

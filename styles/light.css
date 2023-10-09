@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color:  whitesmoke;
+    font-family: sans-serif;
+}
+
+   
+ header  {
+    background-color: whitesmoke;
+    color: black;
+    margin-left: 20px;
+    padding: 1px;
+   
+     
+    text-decoration: none;
+    
+    
+  }
+
+table  {
+       background-color: whitesmoke;
+  
+    color: black;
+    width: 80%;
+    margin: 3% auto;
+    
+    
+    border-collapse: collapse;
+    
+
+}
+caption{
+   
+    font-size: large;
+    color:rgb(10, 9, 9);
+    margin-bottom: 1%;
+    
+   
+}
+ thead,th,tr{
+    margin: auto;
+    border: 2px solid black;
+    color: black;
+    padding: 1px;
+    
+}
+.custom-button {
+    background-color: black; 
+    color: whitesmoke;
+    padding: 10px 20px; 
+    border:  1px solid black;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 5px;
+    margin-left: 70%;
+}
+footer{
+    background-color: lightblue;
+    color: black;
+    margin: 2px 0;
+    padding: 2px;
+    text-align: center;
+ }
